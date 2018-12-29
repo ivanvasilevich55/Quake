@@ -36,6 +36,10 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 // !!! if this is changed, it must be changed in model.h too !!!
 // !!! if the size of this is changed, the array lookup in SV_HullPointContents
 //     must be changed too !!!
+
+//
+// For pull request
+//
 #define pl_normal	0
 #define pl_dist		12
 #define pl_type		16
